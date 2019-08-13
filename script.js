@@ -17,7 +17,7 @@ const user = "";
 
 
 //Function get damage
-function getDamage(name1,enemy){
+function getDamage(){
   return Math.floor((Math.random() * 2) + 1);
 }
 
